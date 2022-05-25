@@ -49,6 +49,4 @@
   <a href = "mailto:daniel.suportemanaus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-oliveira-manaus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
- <div style="display: inline_block">
 <img align="right" alt="daniel-pic" height="150"  src="https://media2.giphy.com/media/x36sgBgrSo6saSpaaj/giphy.gif?cid=790b76110ff2468f1883bb4f01c56769d514781b540e31cd&amp;rid=giphy.gif&amp;ct=g" alt="Animated GIF" style="width: 500px; height: 500px; left: 0px; top: 0px; opacity: 0;">
-</div>
