@@ -1,9 +1,9 @@
 ## Olá! Me chamo Daniel Oliveira 👋
 
 
-- 🔭 Hoje trabalho como Software Development Analist no Instituto FIT.
-- 🌱 Estudando Banco de dados não relacional: Elasticsearch e Ângular.
-- 💙 Tenho Interesse em todos os tipos de jogos👾
+- 💻 Atualmente trabalho como Software Development Analist no Instituto FIT. -> https://www.fit-tecnologia.org.br
+- 🌱 Estudos recentes -> Computação em Nuvem, Angular, Typescript e Elastic Stack.
+- 🎯 Tenho Interesse em adquirir sempre novos conhecimentos e novas amizades.
 - 📫 contate-me: daniel.suportemanaus@gmail.com
 
 <br></br>
