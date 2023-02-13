@@ -1,7 +1,7 @@
 ## Olá! Me chamo Daniel Oliveira 👋
 
 
-- 💻 Atualmente trabalho como Software Development Analist no Instituto FIT. -> https://www.fit-tecnologia.org.br
+- 💻 Atualmente trabalho como Software Development Analyst no Instituto FIT. -> https://www.fit-tecnologia.org.br
 - 🌱 Estudos recentes -> Computação em Nuvem, Angular, Typescript e Elastic Stack.
 - 🎯 Tenho Interesse em adquirir sempre novos conhecimentos e novas amizades.
 - 📫 contate-me: daniel.suportemanaus@gmail.com
