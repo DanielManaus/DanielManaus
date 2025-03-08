@@ -1,7 +1,7 @@
 ## Olá! Me chamo Daniel Oliveira 👋
 
 
-- 💻 Atualmente trabalho como Software Development Analyst no Instituto FIT. -> https://www.fit-tecnologia.org.br
+- 💻 Atualmente trabalho como Software Development Analyst Mid
 - 🌱 Estudos recentes -> Cloud, IA Gen, Angular, TS e Apache Spark.
 - 🎯 Tenho Interesse em adquirir sempre novos conhecimentos.
 
