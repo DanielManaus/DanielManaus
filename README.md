@@ -1,5 +1,4 @@
-## Olá! Me chamo Daniel Oliveira 👋
-
+## Me chamo Daniel Oliveira 👋
 
 - 💻 Atualmente trabalho como Software Development Analyst Mid
 - 🌱 Estudos recentes -> Cloud, IA Gen, Angular, TS e Apache Spark.
@@ -37,12 +36,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="30"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="30"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
 
-
-
 ##
   
   <div>  
   <a href = "mailto:daniel.suportemanaus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-oliveira-manaus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
-<img align="right" alt="daniel-pic" height="150"  src="https://media2.giphy.com/media/x36sgBgrSo6saSpaaj/giphy.gif?cid=790b76110ff2468f1883bb4f01c56769d514781b540e31cd&amp;rid=giphy.gif&amp;ct=g" alt="Animated GIF" style="width: 500px; height: 500px; left: 0px; top: 0px; opacity: 0;">
