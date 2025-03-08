@@ -2,9 +2,8 @@
 
 
 - 💻 Atualmente trabalho como Software Development Analyst no Instituto FIT. -> https://www.fit-tecnologia.org.br
-- 🌱 Estudos recentes -> Computação em Nuvem, Angular, Typescript e Elastic Stack.
-- 🎯 Tenho Interesse em adquirir sempre novos conhecimentos e novas amizades.
-- 📫 contate-me: daniel.suportemanaus@gmail.com
+- 🌱 Estudos recentes -> Cloud, IA Gen, Angular, TS e Apache Spark.
+- 🎯 Tenho Interesse em adquirir sempre novos conhecimentos.
 
 <br></br>
 <a href="https://github.com/DanielManaus">
