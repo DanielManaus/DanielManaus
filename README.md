@@ -1,12 +1,26 @@
-## Me chamo Daniel Silva 👋
+# 👨‍💻 Daniel Silva
 
-- 💻 Software Development Analyst
-- 🌱 Estudos recentes -> Cloud, IA Gen, Angular, TS e Apache Spark.
-- 🎯 Tenho Interesse em adquirir sempre novos conhecimentos.
-- 
-##
-  
-  <div>  
-  <a href = "mailto:daniel.suportemanaus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-oliveira-manaus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    
+Desenvolvedor de Software Pleno com 12 anos de experiência na área de TI, atuando atualmente no **FIT - Instituto de Tecnologia da Amazônia**.
+
+---
+
+### 🚀 Áreas de atuação
+
+- Desenvolvimento Web (Full Stack)
+- Engenharia de Dados
+- DevOps & Integração Contínua
+- APIs e Microsserviços
+- Cloud Computing (AWS)
+- Arquitetura de Software
+
+---
+
+### 📫 Contato
+
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/daniel-oliveira-manaus)
+- 📧 daniel.devbr@gmail.com
+- 📍 Manaus, AM — Brasil
+
+---
+
+> 🙏 "Este é o dia que o Senhor fez; alegremo-nos e regozijemo-nos nele." - *Salmo 118:24*
